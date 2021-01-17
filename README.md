@@ -1,4 +1,4 @@
-# HOW TO USE THAT AS AN TEMPLATE
+# HOW TO USE THAT AS A TEMPLATE
 1. First of all you need to install degit globaly using:
 
 	yarn global add degit
